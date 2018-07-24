@@ -1,0 +1,6 @@
+D:\ELMA\WebApplication1\Doc.DB.Models\bin\Debug\netstandard2.0\Doc.DB.Models.deps.json
+D:\ELMA\WebApplication1\Doc.DB.Models\bin\Debug\netstandard2.0\Doc.DB.Models.dll
+D:\ELMA\WebApplication1\Doc.DB.Models\obj\Debug\netstandard2.0\Doc.DB.Models.csprojAssemblyReference.cache
+D:\ELMA\WebApplication1\Doc.DB.Models\obj\Debug\netstandard2.0\Doc.DB.Models.csproj.CoreCompileInputs.cache
+D:\ELMA\WebApplication1\Doc.DB.Models\obj\Debug\netstandard2.0\Doc.DB.Models.AssemblyInfoInputs.cache
+D:\ELMA\WebApplication1\Doc.DB.Models\obj\Debug\netstandard2.0\Doc.DB.Models.AssemblyInfo.cs
